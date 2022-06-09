@@ -1,0 +1,11 @@
+#relogio-digital{
+    background-color: #333;
+    color: #FFF;
+    width: 35%;
+    margin: auto;
+    padding: 50px 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    text-align: center;
+    border-radius: 20px;
+}
